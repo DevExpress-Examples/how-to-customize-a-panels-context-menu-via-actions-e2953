@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXDocking_PanelContextMenu_Actions/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXDocking_PanelContextMenu_Actions/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/DXDocking_PanelContextMenu_Actions/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXDocking_PanelContextMenu_Actions/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to customize a panel's context menu via actions
 
 
